@@ -1,8 +1,7 @@
 ### Hi there 👋
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.growthaccelerationpartners.com%2Fblog%2F7-steps-to-leverage-machine-learning-for-software-development&psig=AOvVaw3YUqLiuTnqIfCB4cQO1iGH&ust=1714423741351000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjNxaPk5YUDFQAAAAAdAAAAABAE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nafees Siddiqui</h1>
 <h3 align="center">A passionate frontend developer and machine learning engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/CEamqnxWB-X06sZD-HGGjrWgiS3oTUEizTSXhKEl_jg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9ncmFtbWlu/Zy1jb2RlLWFic3Ry/YWN0LXRlY2hub2xv/Z3ktYmFja2dyb3Vu/ZC1zb2Z0d2FyZS1k/ZXZlbG9wZXItY29t/cHV0ZXItc2NyaXB0/XzM0NjYzLTMxLmpw/Zz9zaXplPTYyNiZl/eHQ9anBn”>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafeessidd1&label=Profile%20views&color=0e75b6&style=flat" alt="nafeessidd1" /> </p>
 
