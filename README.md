@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-nafees.vercel.app/](https://myportfolio-nafees.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://myportfolio-nafees.vercel.app/](https://nafees-portfolio-ten.vercel.app/)
 
 - 📫 How to reach me **nafeessiddiqui861@gmail.com**
 
